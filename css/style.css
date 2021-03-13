@@ -1,0 +1,48 @@
+.html {
+    background-color:black;
+}
+.body {
+    margin: 0%;
+    padding: 0%;
+}
+.main {
+margin:0%;
+padding: 0%;
+}
+
+.container {
+width: 100%;
+height: 100vh;
+background-color: black;
+}
+
+.row {
+width: 100%;
+text-align: center;
+font-size: 1.5rem;
+margin: 0% auto;
+display: flex;
+}
+
+.col-50 img{
+    width: 80%;
+    margin: 0% auto;
+    margin-top: 30px;
+}
+
+.col-50 a {
+    text-decoration: none;
+}
+
+.col-50 a h2 {
+    color:red;
+    font-size: 2rem;
+    margin-left: 50px;
+}
+
+.col-50 p {
+    font-size: 22px;
+    color:white;
+    width: 80%;
+    margin: 0% auto;
+}
